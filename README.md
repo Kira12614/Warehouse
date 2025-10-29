@@ -5,5 +5,5 @@
 
 ***
 ## Описание элементов репозитория:
-* В папке [application](https://github.com/kitsuldaniil/Warehouse_Automation/tree/master/application) содержатся программные файлы приложения.
+* В папке [Application]([https://github.com/kitsuldaniil/Warehouse_Automation/tree/master/application](https://github.com/Kira12614/Warehouse/tree/main/Application)) содержатся программные файлы приложения.
 * В подпапке [Документация/Диаграммы](https://github.com/kitsuldaniil/Warehouse_Automation/tree/master/Документация/Диаграммы) содержатся диаграммы, построенные в процессе анализа предметной области
